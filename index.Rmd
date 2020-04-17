@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my website!"
+title: "Hallo, My name is Esteban Hernandez-Rivera!"
 ---
 
-You're up and running!
+I'm currently a Research Assistant at the DOCLab for Cognitive 
+Science and Learning at the Autonomous University of Baja California, Tijuana, Mexico. 

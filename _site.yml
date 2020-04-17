@@ -1,4 +1,4 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "Esteban Hernandez Rivera"                                # CHANGE HERE 
 output_dir: "."
 navbar:
   title: "Esteban Hernandez-Rivera"                             # CHANGE HERE 
@@ -17,10 +17,10 @@ navbar:
       icon: fa-rss
       href: https://estebhr.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
-    - text: "Contact me"
+    - text: " "
       icon: fa-envelope-o
       href: mailto:esteban.hernandez.rivera@uabc.edu.mx                    # CHANGE HERE 
-    - text: "GitHub"
+    - text: " "
       icon: fa-github
       href: https://github.com/estebhr       # CHANGE HERE 
     - text: "ResearchGate"
